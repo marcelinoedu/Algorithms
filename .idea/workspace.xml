@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16bcb643-45e8-4b38-a7ef-e12a7117e154" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/DBvideos.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/config/routes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/cria-usuario.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/public/css/estilos-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/public/css/estilos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/public/css/flexbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/public/css/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/public/img/cabecalho/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/public/img/cabecalho/video_call.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/public/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/DeleteVideoController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/EditVideoController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/Error404Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/LoginFormController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/NewVideoController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/VideoFormController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Controller/VideoListController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Entity/Video.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Repository/VideoRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/src/Repository/createTable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/views/fim-html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/views/inicio-html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/views/login-form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/views/video-form.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aluraplay 3.0/views/video-list.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Entities/SpreadSheets/FinanceSheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Entities/SpreadSheets/FinanceSheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/Controllers/CustomizedResponseEntityExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/Controllers/ErrorDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/Controllers/FirstController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/Controllers/HelloWorldBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/Controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/Controllers/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/FirstProjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/Model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/java/com/course/one/firstproject/Services/UserDaoService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-1/first-project/src/test/java/com/course/one/firstproject/FirstProjectApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/.idea/Course-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/src/main/java/com/secondproject/limitservice/LimitServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mastering SpringBoot/Course-2/limit-service/src/test/java/com/secondproject/limitservice/LimitServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/HandleInertiaRequests.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/ValidateSignature.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/database/migrations/2014_10_12_100000_create_password_reset_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/resources/js/Pages/testVue.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/resources/views/app.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PHP projects/InertiaApp/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/1.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/1.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/12344.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/2.2.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/2023-03-27_14-49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/21212.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/423.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/424.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/4341.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Dash 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Dash 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Deals.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Expeiências.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Form forgot finance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Landing page.1.1.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Lojas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Lojas1.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Profile image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/Screenshot at Mar 23 16-59-57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/address.11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/aproved.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/cadastro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/deal.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/deal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/deals.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/deals3.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/deals4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/deals5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/deals7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/dealsa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/delas2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/esqueci senha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/experiencias 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/finance login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/forgot finance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/getintouch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/img5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/landin page 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/landing page 43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/landing page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/landing page11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/lojas1.3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/mystore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/passo 2 redefinir senha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/profile settings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/project_manager.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/projects.1.2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/projects.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/projects1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/projects2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/recover password.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/redefinir senha passo a passo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/register store.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/relationship team.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/reported.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/sending_points.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/serviço de especializa;cao.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/step 4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/step1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/step11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/step12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/step1222.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/step13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/step2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/step3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/store profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/store profile1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/tags1.1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/tags6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/updates.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prints: Plataforma/ygyg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Projetos/Alura/Alura - JS/robotron-2000" beforeDir="false" afterPath="$PROJECT_DIR$/../Projetos/Alura/Alura - JS/robotron-2000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Site Club/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Site Club/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Site Club/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/src/Model/AluraMais.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/src/Model/Assistivel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/src/Model/Curso.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/src/Model/Feedback.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/src/Model/Pontualvel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/src/Model/Video.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/src/Service/Assistidor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula1-projeto-inicial/src/Service/CalculadorPontuacao.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../club/club-casa-admin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../club/clubecasa-site" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../saveMigrations/2023_04_13_002004_create_investments_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../saveMigrations/2023_04_13_002413_create_investment_source_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../saveMigrations/InvestmentSourceSeeder.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VzemceEglY7IRekLeMET7Xw0eI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Entities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FinanceProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16bcb643-45e8-4b38-a7ef-e12a7117e154" name="Changes" comment="" />
+      <created>1695843496268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695843496268</updated>
+    </task>
+    <servers />
+  </component>
+</project>

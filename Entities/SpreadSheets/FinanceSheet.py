@@ -1,12 +1,12 @@
 from __future__ import print_function
 
 import os.path
-
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
@@ -21,6 +21,7 @@ def load_credentials():
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
+            
         else:
             flow = InstalledAppFlow.from_client_secrets_file(
                 'financeProjectAuth.json', SCOPES)
@@ -40,13 +41,12 @@ def load_finance_sheet():
         sheet = service.spreadsheets()
         result = sheet.values().get(spreadsheetId=SAMPLE_SPREADSHEET_ID,
                                     range=SAMPLE_RANGE_NAME).execute()
-
+        
         if not result:
             print('No data found.')
             return None
-
         return result
-
+    
     except HttpError as err:
         print(err)
         return None
@@ -65,12 +65,12 @@ def update_finance_sheet(cell_updates):
                 'range': cell_range,
                 'values': [[new_value]],
             })
-
+            
         body = {
             'valueInputOption': 'RAW',
             'data': data_to_update,
         }
-
+        
         sheet.values().batchUpdate(
             spreadsheetId=SAMPLE_SPREADSHEET_ID,
             body=body

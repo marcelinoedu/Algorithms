@@ -45,6 +45,7 @@ def load_finance_sheet():
         if not result:
             print('No data found.')
             return None
+        
         return result
     
     except HttpError as err:

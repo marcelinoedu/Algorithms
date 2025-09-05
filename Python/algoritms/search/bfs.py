@@ -2,7 +2,7 @@ import sys
 import os
 sys.path.append(os.path.abspath(".."))
 from resources.graph import Graph
-from resources.edge import Edge
+
 from resources.node import Node
 from resources.queue import Queue
 

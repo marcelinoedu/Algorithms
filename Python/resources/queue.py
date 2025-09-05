@@ -5,7 +5,7 @@ class Queue:
     def __init__(self):
         self.items = []
         
-    def enqueue(self, item) -> None:
+    def enqueue(self, item: Node) -> None:
         self.items.append(item)
         
     def dequeue(self) -> Node:

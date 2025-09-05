@@ -6,6 +6,7 @@ from resources.graph import Graph
 from resources.edge import Edge
 from resources.node import Node
 from Python.algoritms.search.bfs import BFS
+from Python.algoritms.search.dfs import DFS
 
 
 
@@ -24,7 +25,12 @@ g.add_edge(Edge(b, d, 1.0))
 g.add_edge(Edge(b, e, 1.0))
 g.add_edge(Edge(c, f, 1.0))
 
+
+
+
 bfs = BFS(graph=g, start_node=e, goal_node=f)
 bfs.search()
 
+dfs = DFS(graph=g, start_node=e, goal_node=f)
+dfs.search()
 

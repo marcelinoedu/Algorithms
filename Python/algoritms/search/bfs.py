@@ -32,11 +32,8 @@ class BFS:
             if actual_node == self.goal_node:
                 print(f"resultado encontrado= {self.goal_node}, caminho feito={self.visited_nodes_path}")
                 break
-            
             edges = self.graph.get_edges(actual_node) 
-            
             print(f"vizinhos: {edges}")
-            
             for edge in edges:
                 if edge.to_node not in self.visited_nodes_path:
                     self.queue.enqueue(edge.to_node)

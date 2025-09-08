@@ -8,14 +8,13 @@ class Stack:
         self.items = []
         
     def push(self, item: Node) -> None:
-        self.items.insert(0,item)
+        self.items.append(item)
     
     def pop(self) -> Node:
         if self.is_empty():
             raise IndexError("A fila está vazia!")
-        return self.items.pop(0)
+        return self.items.pop()
     
     def is_empty(self):
-        
         return len(self.items) == 0        
     
